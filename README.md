@@ -68,7 +68,7 @@ const transition = {
 ```
 
 ## API
-#### `children` - React.PropTypes.node | Array[React.PropTypes.node] (Required)
+#### `children` - React.PropTypes.node | Array (Required)
 One or more children to animate.
 
 #### `delay` - Number
