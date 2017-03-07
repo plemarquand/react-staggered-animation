@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "name": "react-staggered-animation",
   "description": "Animates items with a delay between them.",
   "main": "dist/index.js",
@@ -18,7 +18,7 @@
     "test": "mocha-webpack --webpack-config webpack.config.js \"src/**/*.test.js\" --require test/setup.js",
     "test:watch": "mocha-webpack --webpack-config webpack.config.js \"src/**/*.test.js\" --require test/setup.js --reporter min --watch"
   },
-  "repository": "https://github.com/plemarquand/react-text-cycle",
+  "repository": "https://github.com/plemarquand/react-staggered-animation",
   "keywords": [
     "react",
     "react-component",
