@@ -17,7 +17,7 @@ First, define some CSS that describes your animation.
   transform: translateY(50px);
 }
 
-.fade-enter.fade-enter-active) {
+.fade-enter.fade-enter-active {
   transition: opacity 250ms ease-in;
   opacity: 1;
 }
